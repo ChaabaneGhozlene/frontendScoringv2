@@ -109,6 +109,11 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap');
+
+@theme {
+  --font-nunito: 'Nunito', sans-serif;
+}
 /* Animate css */
 @import './assets/css/animate.css';
 
